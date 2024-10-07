@@ -1,3 +1,4 @@
+Do you like my website theme? It kind of feels like an old government database.  
 # Section Links
 [About Me](#about-me)
 [Portfolio](#portfolio)
@@ -13,8 +14,11 @@ I am studying financial mathematics and theoretical economics at Trinity Univers
 # Portfolio*
 
 ## Investing History
+My investing story began with the advent of COVID-19 in the United States in early 2020. I remember watching CNBC for the first time, captivated by the news anchors nervously justifying the big red graphs pointing downwards. While I knew nothing about investing then, I created and funded my first brokerage account with $600. 
 
-My investing story began with the advent of COVID-19 in the United States in early 2020. I remember watching CNBC for the first time, captivated by the news anchors nervously justifying the big red graphs pointing downwards. While I didn't know anything about investing at the time, I created my funded my first brokerage account with $600. 
+A 16-year-old learning to invest through the internet inevitably gave me a shaky start. After dabbling unsuccessfully in various short-term trading strategies for about 18 months, I purchased a copy of the _Little Book of Common Sense Investing_ by John C. Bogle. I shifted my focus to long-term investing and practiced new and simpler strategies, such as dollar-cost averaging, with much more success.
+
+Today, I pursue my passion for investments primarily through research, both in and out of a "research setting." During the summer of 2024, I worked as a financial research assistant at Rice University, utilizing SQL to extract financial data from Compustat and Wharton's WRDS database. We used this data and a synthetic control methodology to create synthetic firms and recorded the statistical significance of the results. On my own, I continue to research 
 
 ## Portfolio Strategy
 
