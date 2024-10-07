@@ -17,14 +17,14 @@ A 16-year-old learning to invest through the internet inevitably gave me a shaky
 
 Today, I pursue my passion for investments primarily through research, both in and out of a "research setting." During the summer of 2024, I worked as a financial research assistant at Rice University, utilizing SQL to extract financial data from Compustat and Wharton's WRDS database. We used this data and a synthetic control methodology to create synthetic firms and recorded the statistical significance of the results. On my own, I enjoy researching macroeconomic data. I intend to pursue a career in finance, consulting, actuarial sciences, or a related field.
 
-### Contact    
+### Contact
 mschuler@trinity.edu
 
 # Portfolio*
 *This portfolio is simulated. All gains are in paper money, but all positions and trades are according to real-time, live market data. This portfolio was incepted on October 6, 2024. The first trading day since its inception was October 7, 2024.
 
 ## Portfolio Strategy
-The portfolio is to follow these guidelines:  
+The portfolio is to follow these guidelines:
 1. No more than 75% of the portfolio's liquidity can be uninvested
 2. No more than 15% of the portfolio is to be invested in one security
 3. At least 5% of the portfolio must be invested in bonds/bond securities
@@ -32,12 +32,13 @@ The portfolio is to follow these guidelines:
 ## Current Holdings
 This is where I will list my portfolio holdings.
 
-### Market Status
-My current market outlook is **Orange**. 
+### Market Forecast
+**ORANGE** (10/07/2024)  
+Given the current socioeconomic data of the United States, my forecast for the market is currently orange. 
 
 # LinkedIn and Resume
 Thank you for taking the time to look through my website! Here, you will find the links to my LinkedIn and my Resume:
 
-**LinkedIn:**
+**LinkedIn:** https://www.linkedin.com/in/maelschuler/
 
-****Resume (Updated October 2024):****
+****Resume (Updated October 2024):**** https://downgit.github.io/#/home?url=https://github.com/maelschuler/maelschuler.github.io/blob/main/Mael%20Schuler%20September%202024%20Resume.pdf
