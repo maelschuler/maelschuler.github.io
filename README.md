@@ -1,5 +1,5 @@
 Do you like my website theme? It kind of feels like an old government database.  
-# Section Links
+# Mael Schuler
 [About Me](#about-me)
 [Portfolio](#portfolio)
 [LinkedIn and Resume](#linkedin-and-resume)
