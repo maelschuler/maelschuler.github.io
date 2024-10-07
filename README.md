@@ -38,4 +38,5 @@ Thank you for taking the time to look through my website! Here, you will find th
 
 **LinkedIn:** https://www.linkedin.com/in/maelschuler/
 
-**Resume (Updated October 2024):** https://github.com/maelschuler/maelschuler.github.io/blob/main/Mael%20Schuler%20September%202024%20Resume.pdf
+**Resume (Updated October 2024)** [Mael Schuler September 2024 Resume.pdf](https://github.com/user-attachments/files/17283581/Mael.Schuler.September.2024.Resume.pdf)
+
