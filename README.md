@@ -1,4 +1,4 @@
-Do you like my website theme? It kind of feels like an old government database.  
+Do you like my website theme? It kind of feels nostalgic.
 # Mael Schuler
 [About Me](#about-me) | 
 [Portfolio](#portfolio) | 
