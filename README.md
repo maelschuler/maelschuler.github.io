@@ -21,15 +21,19 @@ Today, I pursue my passion for investments primarily through research, both in a
 mschuler@trinity.edu
 
 # Portfolio*
-*This portfolio is simulated. All gains are in paper money, but all positions and trades are according to real-time, live market data.
+*This portfolio is simulated. All gains are in paper money, but all positions and trades are according to real-time, live market data. This portfolio was incepted on October 6, 2024. The first trading day since its inception was October 7, 2024.
 
 ## Portfolio Strategy
-This is where my strategy will be.
+The portfolio is to follow these guidelines:  
+1. No more than 75% of the portfolio's liquidity can be uninvested
+2. No more than 15% of the portfolio is to be invested in one security
+3. At least 5% of the portfolio must be invested in bonds/bond securities
 
 ## Current Holdings
 This is where I will list my portfolio holdings.
 
-### Market status
+### Market Status
+My current market outlook is **Orange**. 
 
 # LinkedIn and Resume
 Thank you for taking the time to look through my website! Here, you will find the links to my LinkedIn and my Resume:
