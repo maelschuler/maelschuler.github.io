@@ -18,37 +18,19 @@ fIll
 
 Filllll
 
-f
-f
-f
-f
-f
-f
-f
-f
-f
-f
-f
-f
-f
-f
-f
+I guess githbu doesnt like just 1 letter
+Im gonna try 1 phrase
+Hello, how are you?
 
-f
-f
-f
+I am great, thanks.
 
-f
-f
-f
+I love coding
+I dropped comp sci
+So Im
 
-f
-f
-f
-f
+Kidding.
 
-f
-f
+
 Trying again!
 
 
