@@ -1,8 +1,8 @@
 Do you like my website theme? It kind of feels like an old government database.  
 # Mael Schuler
-[About Me](#about-me)
-[Portfolio](#portfolio)
-[LinkedIn and Resume](#linkedin-and-resume)
+[About Me](#about-me) | 
+[Portfolio](#portfolio) | 
+[LinkedIn and Resume](#linkedin-and-resume) | 
 [Filler Waste](#filler)
 
 
