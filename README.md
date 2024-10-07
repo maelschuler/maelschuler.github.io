@@ -22,7 +22,7 @@ mschuler@trinity.edu
 
 ## Portfolio Strategy
 The portfolio is to follow these guidelines:
-1. No more than 75% of the portfolio's liquidity can be uninvested
+1. No more than 75% of the portfolio can be uninvested
 2. No more than 15% of the portfolio is to be invested in one security
 3. At least 5% of the portfolio must be invested in bonds/bond securities
 
@@ -38,4 +38,4 @@ Thank you for taking the time to look through my website! Here, you will find th
 
 **LinkedIn:** https://www.linkedin.com/in/maelschuler/
 
-**Resume (Updated October 2024):** 
+**Resume (Updated October 2024):** https://github.com/maelschuler/maelschuler.github.io/blob/main/Mael%20Schuler%20September%202024%20Resume.pdf
