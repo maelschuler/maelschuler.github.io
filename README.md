@@ -41,4 +41,4 @@ Thank you for taking the time to look through my website! Here, you will find th
 
 **LinkedIn:** https://www.linkedin.com/in/maelschuler/
 
-****Resume (Updated October 2024):**** https://downgit.github.io/#/home?url=https://github.com/maelschuler/maelschuler.github.io/blob/main/Mael%20Schuler%20September%202024%20Resume.pdf
+**Resume (Updated October 2024):** 
