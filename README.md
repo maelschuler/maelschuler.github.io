@@ -5,7 +5,7 @@ Do you like my website theme? It kind of feels nostalgic.
 [LinkedIn and Resume](#linkedin-and-resume)
 
 # About Me
-I am studying financial mathematics and theoretical economics at Trinity University with minors in mathematics and data science. I am on track to graduate by Spring of 2027. My background includes finance, risk management, data science, and computer science. Beyond my studies, I am an interim consultant for MSInsight, a bioinformatics company headquartered in Paris, a tutor at First Generation Investors, a player on the Trinity Men's Club Volleyball team, and a member of several on-campus organizations such as Triniteers, Alpha Kappa Psi, and TU Consulting club.
+I am studying financial mathematics and theoretical economics at Trinity University with minors in mathematics and data science. I am on track to graduate by Spring of 2027. My background includes finance, risk management, data science, and computer science. Beyond my studies, I am an interim consultant for MSInsight, a bioinformatics company headquartered in Paris, a tutor at First Generation Investors, a player on the Trinity Men's Club Volleyball team, and a member of several on-campus organizations such as Triniteers, Alpha Kappa Psi, and TU Consulting Club.
 
 ## Investing History
 My investing story began with the advent of COVID-19 in the United States in early 2020. I remember watching CNBC for the first time, captivated by the news anchors nervously justifying the big red graphs pointing downwards. While I knew nothing about investing then, I created and funded my first brokerage account with $600. 
@@ -35,7 +35,6 @@ The portfolio is to follow these guidelines:
 Given the current socioeconomic data of the United States, my forecast for the market is currently orange. 
 
 ## Buys/Sells
-
 **BUY**–10/10/24 **VOO** 97 SHARES @ 529.23  
 **BUY**–10/10/24 **TLT** 54 SHARES @ 93.77  
 **BUY**–10/10/24 **VGLT** 85 Shares @ 59.01  
@@ -43,7 +42,7 @@ Given the current socioeconomic data of the United States, my forecast for the m
 # LinkedIn and Resume
 Thank you for taking the time to look through my website! Here, you will find the links to my LinkedIn and my Resume:
 
-**LinkedIn:** https://www.linkedin.com/in/maelschuler/
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/maelschuler/)
 
 **Resume (Updated October 2024)** [Mael Schuler September 2024 Resume.pdf](https://github.com/user-attachments/files/17283581/Mael.Schuler.September.2024.Resume.pdf)
 
