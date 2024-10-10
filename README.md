@@ -28,8 +28,7 @@ The portfolio is to follow these guidelines:
 3. At least 5% of the portfolio must be invested in bonds/bond securities
 
 ## Current Holdings
-<img width="578" alt="image" src="https://github.com/user-attachments/assets/d327bdef-bc50-42a5-ac71-7f1bca010062">
-
+<img width="596" alt="image" src="https://github.com/user-attachments/assets/caa70b0a-6cd2-4957-940d-47ff5f100cd3">
 
 ## Market Forecast
 **ORANGE** (10/07/2024)  
