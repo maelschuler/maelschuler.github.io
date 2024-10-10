@@ -35,9 +35,9 @@ Given the current socioeconomic data of the United States, my forecast for the m
 
 ### Buys/Sells
 
-**BUY**–10/10/24 **VOO** 97 SHARES @ 529.23
-**BUY**–10/10/24 **TLT** 54 SHARES @ 93.77
-**BUY**–10/10/24 **VGLT** 85 Shares @ 59.01
+**BUY**–10/10/24 **VOO** 97 SHARES @ 529.23  
+**BUY**–10/10/24 **TLT** 54 SHARES @ 93.77  
+**BUY**–10/10/24 **VGLT** 85 Shares @ 59.01  
 
 # LinkedIn and Resume
 Thank you for taking the time to look through my website! Here, you will find the links to my LinkedIn and my Resume:
