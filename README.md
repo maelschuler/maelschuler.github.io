@@ -23,7 +23,7 @@ mschuler@trinity.edu
 ## Portfolio Strategy
 The portfolio is to follow these guidelines:
 1. No more than 75% of the portfolio can be uninvested
-2. No more than 15% of the portfolio is to be invested in one security
+2. No more than 15% of the portfolio is to be invested in one security (excluding ETFs)
 3. At least 5% of the portfolio must be invested in bonds/bond securities
 
 ## Current Holdings
