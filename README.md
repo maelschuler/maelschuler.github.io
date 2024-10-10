@@ -20,6 +20,8 @@ phone: (713)-898-2900
 
 # Portfolio*
 *This portfolio is simulated. All gains are in paper money, but all positions and trades are according to real-time, live market data. This portfolio was incepted on October 6, 2024. The first trading day since its inception was October 10, 2024.
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/a0e429e6-bc52-4077-acdd-57fc30168203">
+
 
 ## Portfolio Strategy
 The portfolio is to follow these guidelines:
