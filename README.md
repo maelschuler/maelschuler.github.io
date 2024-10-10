@@ -43,8 +43,9 @@ Given the current socioeconomic data of the United States, my forecast for the m
 # LinkedIn and Resume
 Thank you for taking the time to look through my website! Here, you will find the links to my LinkedIn and my Resume:
 
+### Linkedn
 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/maelschuler/)
-
+### Resume
 **Resume (Updated October 2024)** [Mael Schuler September 2024 Resume.pdf](https://github.com/user-attachments/files/17283581/Mael.Schuler.September.2024.Resume.pdf)
 
-Do you like my website theme? It kind of feels nostalgic.
+Do you like my website theme? I like it.
