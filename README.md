@@ -1,4 +1,3 @@
-Do you like my website theme? It kind of feels nostalgic.
 # Mael Schuler
 [About Me](#about-me) | 
 [Portfolio](#portfolio) | 
@@ -46,3 +45,4 @@ Thank you for taking the time to look through my website! Here, you will find th
 
 **Resume (Updated October 2024)** [Mael Schuler September 2024 Resume.pdf](https://github.com/user-attachments/files/17283581/Mael.Schuler.September.2024.Resume.pdf)
 
+Do you like my website theme? It kind of feels nostalgic.
