@@ -33,6 +33,12 @@ This is where I will list my portfolio holdings.
 **ORANGE** (10/07/2024)  
 Given the current socioeconomic data of the United States, my forecast for the market is currently orange. 
 
+### Buys/Sells
+
+**BUY**–10/10/24 **VOO** 97 SHARES @ 529.23
+**BUY**–10/10/24 **TLT** 54 SHARES @ 93.77
+**BUY**–10/10/24 **VGLT** 85 Shares @ 59.01
+
 # LinkedIn and Resume
 Thank you for taking the time to look through my website! Here, you will find the links to my LinkedIn and my Resume:
 
