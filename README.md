@@ -21,10 +21,16 @@ phone: (713)-898-2900
 *This portfolio is simulated. All gains are in paper money, but all positions and trades are according to real-time, live market data. This portfolio was incepted on October 6, 2024. The first trading day since its inception was October 10, 2024.
 
 ## Portfolio Strategy
-The portfolio is to follow these guidelines:
+My portfolio is to follow these guidelines:
 1. No more than 75% of the portfolio can be uninvested
 2. No more than 15% of the portfolio is to be invested in one security (excluding ETFs)
 3. At least 5% of the portfolio must be invested in bonds/bond securities
+
+The time horizon for most of these investments is a minimum of 4-5 months. Some holdings may be indefinite (many years). The purpose of this portfolio is for me to practice evaluating companies' "fundamentals" and, ideally, investing in undervalued firms. All positions in this portfolio are long; I do not have a reliable risk management strategy for short positions. I do not intend to purchase options or other derivatives in this portfolio.
+
+I will keep an archive of all of my transactions and positions. Still, my website will only post relatively recent information (until I build a lengthy history, for which I hope to provide quarterly information).
+
+My current strategy...
 
 ## Current Holdings
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/caa70b0a-6cd2-4957-940d-47ff5f100cd3">  
