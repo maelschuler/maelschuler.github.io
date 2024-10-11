@@ -37,9 +37,13 @@ My current strategy...
 <img width="590" alt="image" src="https://github.com/user-attachments/assets/f10332cb-0e27-4e21-b359-195510a2b5c5">
 
 
-## Market Forecast
-**ORANGE** (10/07/2024)  
-Given the current socioeconomic data of the United States, my forecast for the market is currently orange. 
+## Market Forecast & Relevant News
+### Forecast
+**ORANGE**  
+
+### News
+[September 2024 – US Inflation Report](https://www.ft.com/content/9f122d16-79f0-4122-a17f-59d1c11c94af)
+[September 2024 – US Jobs, Oil, and Other Metrics)[https://www.ft.com/content/42fc25ae-f6ef-4864-827b-3b52ed757e15#post-f230d404-8583-4fc4-8110-4e292012411d]
 
 ## Buys/Sells
 **BUY**–10/10/24 **VOO** 97 SHARES @ 529.23  
