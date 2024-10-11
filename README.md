@@ -9,7 +9,7 @@ I am studying financial mathematics and theoretical economics at Trinity Univers
 ## Investing History
 My investing story began with the advent of COVID-19 in the United States in early 2020. I remember watching CNBC for the first time, captivated by the news anchors nervously justifying the big red graphs pointing downwards. While I knew nothing about investing then, I created and funded my first brokerage account with $600. 
 
-As a 16-year-old learning to invest through the internet, I inevitably began with a shaky foundation. After dabbling unsuccessfully in various short-term trading strategies for about 18 months, I purchased a copy of the _Little Book of Common Sense Investing_ by John C. Bogle. My focus later shifted to long-term and simpler strategies, exercising time-tested methods such as dollar-cost averaging with much more success.
+As a 16-year-old learning to invest through the internet, I inevitably began with a shaky foundation. After dabbling unsuccessfully in various short-term trading strategies for about 18 months, I purchased a copy of the _Little Book of Common Sense Investing_ by John C. Bogle. My focus later shifted to long-term and simpler strategies with much more success.
 
 Today, I pursue my passion for investments primarily through research, both in and out of a "research setting." During the summer of 2024, I worked as a financial research assistant at Rice University, utilizing SQL to extract financial data from Compustat and Wharton's WRDS database. We used this data combined with a synthetic control methodology to create synthetic firms and record the statistical significance of the results. On my own, I most enjoy researching and picking apart macroeconomic data, applying what I learn to evaluate the state of the broader US stock market. I intend to use my skills and experience to pursue a career in finance, consulting, actuarial sciences, or a related quantitative field.
 
@@ -49,7 +49,7 @@ Given the current socioeconomic data of the United States, my forecast for the m
 # LinkedIn and Resume
 Thank you for taking the time to look through my website! Here, you will find the links to my LinkedIn and my Resume:
 
-### Linkedn
+### LinkedIn
 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/maelschuler/)
 ### Resume
 **Resume (Updated October 2024)** [Mael Schuler September 2024 Resume.pdf](https://github.com/user-attachments/files/17283581/Mael.Schuler.September.2024.Resume.pdf)
