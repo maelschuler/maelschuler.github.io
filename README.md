@@ -26,7 +26,7 @@ My portfolio is to follow these guidelines:
 2. No more than 15% of the portfolio is to be invested in one security (excluding ETFs)
 3. At least 5% of the portfolio must be invested in bonds/bond securities
 
-The time horizon for most of these investments is a minimum of 4-5 months. Some holdings may be indefinite (many years). The purpose of this portfolio is for me to practice evaluating companies' "fundamentals" and, ideally, investing in undervalued firms. All positions in this portfolio are long; I do not have a reliable risk management strategy for short positions. I do not intend to purchase options or other derivatives in this portfolio.
+The time horizon for most of these investments is a minimum of 4-5 months. Some holdings may be indefinite (many years). The purpose of this portfolio is for me to practice evaluating companies' "fundamentals" and, ideally, investing in undervalued firms. All positions in this portfolio are long; I do not have a reliable risk management strategy for short positions. I do not intend to use options or other derivatives in this portfolio.
 
 I will keep an archive of all of my transactions and positions. Still, my website will only post relatively recent information (until I build a lengthy history, for which I hope to provide quarterly information).
 
