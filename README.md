@@ -52,7 +52,7 @@ My current strategy...
 
 # LinkedIn and Resume
 Thank you for taking the time to look through my website! Here, you will find the links to my LinkedIn and my resume:
-[LinkedIn](https://www.linkedin.com/in/maelschuler/)
+[LinkedIn](https://www.linkedin.com/in/maelschuler/)  
 **Resume (Updated October 2024)** [Mael Schuler September 2024 Resume.pdf](https://github.com/user-attachments/files/17283581/Mael.Schuler.September.2024.Resume.pdf)
 
 Do you like my website theme? I like it.
