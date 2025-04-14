@@ -4,7 +4,7 @@
 [LinkedIn and Resume](#linkedin-and-resume)
 
 # About Me
-I am studying financial mathematics and theoretical economics at Trinity University with minors in mathematics and data science. I am on track to graduate by Spring of 2027. My background includes finance, risk management, data science, and computer science. Beyond my studies, I am an interim consultant for MSInsight, a bioinformatics company headquartered in Paris, a tutor at First Generation Investors, a player on the Trinity Men's Club Volleyball team, and a member of several on-campus organizations such as Triniteers, Alpha Kappa Psi, and TU Consulting Club.
+I am studying financial mathematics and theoretical economics at Trinity University with minors in mathematics and data science. I am on track to graduate by Spring of 2027. My background includes finance, risk management, data science, and computer science. Beyond my studies, I was an interim consultant for MSInsight, a tutor and volunteer at First Generation Investors, a player on the Trinity Men's Club Volleyball team, and a member of several on-campus organizations such as Triniteers, Alpha Kappa Psi, and TU Consulting Club.
 
 ## Investing History
 My investing story began with the advent of COVID-19 in the United States in early 2020. I remember watching CNBC for the first time, captivated by the news anchors nervously justifying the big red graphs pointing downwards. While I knew nothing about investing then, I created and funded my first brokerage account with $600. 
@@ -45,6 +45,7 @@ My current strategy...
 [November 2024 – US Inflation Report]([https://www.ft.com/content/9f122d16-79f0-4122-a17f-59d1c11c94af](https://www.ft.com/content/aa6c0013-dbde-4fdc-a673-55e4f2ea76e0))
 
 ## Buys/Sells
+**BUY**-4/9/25 **EFX** 
 **BUY**–10/10/24 **VOO** 97 SHARES @ 529.23  
 **BUY**–10/10/24 **TLT** 54 SHARES @ 93.77  
 **BUY**–10/10/24 **VGLT** 85 Shares @ 59.01  
@@ -52,6 +53,6 @@ My current strategy...
 # LinkedIn and Resume
 Thank you for taking the time to look through my website! Here, you will find the links to my LinkedIn and my resume:
 [LinkedIn](https://www.linkedin.com/in/maelschuler/)  
-**Resume (Updated October 2024)** [Mael Schuler September 2024 Resume.pdf](https://github.com/user-attachments/files/17283581/Mael.Schuler.September.2024.Resume.pdf)
+**Resume (Updated February 2025)** [Mael Schuler February 2025 Resume.pdf](https://github.com/maelschuler/maelschuler.github.io/blob/0fd0795c3bd0630d08d19bbeeae5ffb3234440fd/Mael%20Schuler%20February%202025%20Resume.pdf)
 
 Do you like my website theme? I like it.
