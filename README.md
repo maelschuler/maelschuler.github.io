@@ -4,14 +4,14 @@
 [LinkedIn and Resume](#linkedin-and-resume)
 
 # About Me
-I am studying financial mathematics and theoretical economics at Trinity University with minors in mathematics and data science. I am on track to graduate by Spring of 2027. My background includes finance, risk management, data science, and computer science. Beyond my studies, I was an interim consultant for MSInsight, a tutor and volunteer at First Generation Investors, a player on the Trinity Men's Club Volleyball team, and a member of several on-campus organizations such as Triniteers, Alpha Kappa Psi, and TU Consulting Club.
+I am studying financial mathematics and theoretical economics at Trinity University with a minor in mathematics. I am on track to graduate by the Spring of 2027. My areas of interest include finance, risk management, actuarial science, data science, and computer science. Beyond my studies, I was an interim consultant for MSInsight, a tutor and volunteer at First Generation Investors, a player on the Trinity Men's Club Volleyball team, and a member of several on-campus organizations such as Triniteers, Alpha Kappa Psi, and TU Consulting Club. These experiences have given me many new perspectives on my studies and ultimately my investment theses.
 
 ## Investing History
-My investing story began with the advent of COVID-19 in the United States in early 2020. I remember watching CNBC for the first time, captivated by the news anchors nervously justifying the big red graphs pointing downwards. While I knew nothing about investing then, I created and funded my first brokerage account with $600. 
+My investing journey began with the advent of COVID-19 in the United States in early 2020. I remember stumbling across CNBC for the first time, captivated by the news anchors nervously justifying the big red graphs pointing downwards. While I knew nothing about investing then, I immediately funded my first brokerage account with $600. 
 
-As a 16-year-old learning to invest through the internet, I inevitably began with a shaky foundation. After dabbling unsuccessfully in various short-term trading strategies for about 18 months, I purchased a copy of the _Little Book of Common Sense Investing_ by John C. Bogle. My focus later shifted to long-term and simpler strategies with much more success.
+As a 16-year-old learning to invest through the internet, I inevitably began with a shaky foundation. After dabbling unsuccessfully in various short-term trading strategies for about 18 months, I purchased a copy of the _Little Book of Common Sense Investing_ by John C. Bogle. My focus later shifted to simpler strategies with much more success.
 
-Today, I pursue my passion for investments primarily through research, both in and out of a "research setting." During the summer of 2024, I worked as a financial research assistant at Rice University, utilizing SQL to extract financial data from Compustat and Wharton's WRDS database. We used this data combined with a synthetic control methodology to create synthetic firms and record the statistical significance of the results. On my own, I most enjoy researching and picking apart macroeconomic data, applying what I learn to evaluate the state of the broader US stock market. I intend to use my skills and experience to pursue a career in finance, consulting, actuarial sciences, or a related quantitative field.
+Today, I pursue my passion for investments primarily through research, both in and out of a "research setting." During the summer of 2024, I worked as a financial research assistant at Rice University, utilizing SQL to extract financial data from Compustat and Wharton's WRDS database. We used this data, combined with a synthetic control methodology, to create synthetic firms and record the statistical significance of the results. On my own, I most enjoy researching and picking apart macroeconomic data, applying what I learn to evaluate the state of the broader US stock market. I intend to use my skills and experience to pursue a career in finance, consulting, actuarial sciences, or a related quantitative field.
 
 ### Contact
 email (preferred): mschuler@trinity.edu  
@@ -30,25 +30,9 @@ The time horizon for most of these investments is a minimum of 4-5 months. Some 
 
 I will keep an archive of all of my transactions and positions. Still, my website will only post relatively recent information (until I build a lengthy history, for which I hope to provide quarterly information).
 
-My current strategy...
-
-## Current Holdings
-<img width="596" alt="image" src="https://github.com/user-attachments/assets/caa70b0a-6cd2-4957-940d-47ff5f100cd3">  
-<img width="590" alt="image" src="https://github.com/user-attachments/assets/f10332cb-0e27-4e21-b359-195510a2b5c5">
-
 
 ## Market Forecast & Relevant News
-### Forecast
-**ORANGE**  
 
-### News
-[November 2024 – US Inflation Report]([https://www.ft.com/content/9f122d16-79f0-4122-a17f-59d1c11c94af](https://www.ft.com/content/aa6c0013-dbde-4fdc-a673-55e4f2ea76e0))
-
-## Buys/Sells
-**BUY**-4/9/25 **EFX** 
-**BUY**–10/10/24 **VOO** 97 SHARES @ 529.23  
-**BUY**–10/10/24 **TLT** 54 SHARES @ 93.77  
-**BUY**–10/10/24 **VGLT** 85 Shares @ 59.01  
 
 # LinkedIn and Resume
 Thank you for taking the time to look through my website! Here, you will find the links to my LinkedIn and my resume:
