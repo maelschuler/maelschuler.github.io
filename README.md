@@ -33,7 +33,7 @@ I will keep an archive of all of my transactions and positions. Still, my websit
 
 ## Market Forecast & Relevant News
 
-[US Inflation Reaches 2.7% Under Trump Pressure to Lower Fed Rates (FT)](https://www.ft.com/content/65b1fb44-6391-4f74-82db-2d7eb6aaafa9)
+[Jul 15 – US Inflation Reaches 2.7% Under Trump Tariffs & Pressure to Lower Fed Rates (FT)](https://www.ft.com/content/65b1fb44-6391-4f74-82db-2d7eb6aaafa9)
 
 
 # LinkedIn and Resume
