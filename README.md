@@ -39,6 +39,6 @@ I will keep an archive of all of my transactions and positions. Still, my websit
 # LinkedIn and Resume
 Thank you for taking the time to look through my website! Here, you will find the links to my LinkedIn and my resume:
 [LinkedIn](https://www.linkedin.com/in/maelschuler/)  
-**Resume (Updated February 2025)** [Mael Schuler February 2025 Resume.pdf](https://github.com/maelschuler/maelschuler.github.io/blob/0fd0795c3bd0630d08d19bbeeae5ffb3234440fd/Mael%20Schuler%20February%202025%20Resume.pdf)
+**Resume (Updated February 2025)** [Mael Schuler August 2025 Resume.pdf](https://github.com/maelschuler/maelschuler.github.io/blob/0fd0795c3bd0630d08d19bbeeae5ffb3234440fd/Mael%20Schuler%20February%202025%20Resume.pdf)
 
 Do you like my website theme? I like it.
